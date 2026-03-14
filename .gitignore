@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+firebase_music_guesser_sdk.txt
+music-guesser-b7f6f-firebase-adminsdk-fbsvc-99270aad99.json
